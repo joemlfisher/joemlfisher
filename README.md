@@ -11,5 +11,5 @@ My name is Joe Fisher, I am;
  
  Languages I am working in: 
  
-  🐍 Python 
-  🔨 C
+  🐍 Python <br>
+  🔨 C <br>
